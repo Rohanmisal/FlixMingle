@@ -1,0 +1,23 @@
+{
+  "name": "flixmingle",
+  "version": "1.0.0",
+  "description": "This movi website where you can get lot of movies which have different types of genere.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Rohan",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.33",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
