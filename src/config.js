@@ -1,5 +1,5 @@
 export const IMG_CDN = "https://qqcdnpictest.mxplay.com/"
-export const Movicard = [
+export const Movicardsasd = [
   {
     "description": "Hyun Ji is a 19-year-old wandering ghost. One day she meets an exorcist named Bong Pal. They team up to listen to and solve the problems of various ghosts so that they can rest peacefully.",
     "title": "Bring It On, Ghost (Hindi Dubbed)",
